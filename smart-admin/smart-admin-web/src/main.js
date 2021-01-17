@@ -15,6 +15,7 @@ import * as vClickOutside from 'v-click-outside-x';
 import installPlugin from '@/plugins';
 import './themes/index.less';
 import '@/assets/icons/iconfont.css';
+import '@/assets/icons/lihf-icon/iconfont.css';
 import 'slick-carousel/slick/slick.css';
 import { Decimal } from 'decimal.js';
 // 枚举管理

@@ -7,7 +7,7 @@ export const tableDesgin = [
         component: Main,
         meta: {
             title: '数据库',
-            icon: 'icon iconfont icondingshirenwu'
+            icon: 'icon iconfont icon-layers'
         },
         children: [
             //  牡丹花 列表 1
@@ -16,7 +16,7 @@ export const tableDesgin = [
                 name: 'TableIndex',
                 meta: {
                     title: '数据表设计',
-                    icon: 'icon iconfont icondingshirenwu',
+                    icon: 'icon iconfont icon-layers',
                     privilege: [
                         { title: '查询', name: 'table-index-query' },
                         { title: '新增', name: 'table-index-add' },
