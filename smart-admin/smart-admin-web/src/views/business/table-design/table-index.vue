@@ -104,7 +104,7 @@
             </div>
         </Modal>
         <!-- 编辑弹出框 -->
-        <Modal title="新增数据表"   v-model="tableVisible"  draggable scrollable>
+        <Modal title="新增数据表11"   v-model="tableVisible"  draggable scrollable>
             <Form ref="addForm" :model="form" :label-width="70" :rules="rules">
                 <FormItem label="表名" prop="name">
                     <Input v-model="form.name"></Input>
